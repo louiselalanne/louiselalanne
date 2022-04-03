@@ -6,7 +6,6 @@
 ● Pacman Game<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
 </br>
 ● Super Hero Creator<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
-/br>
 ● Birthday Resharch<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
 </br>
 ● PHP Studies<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
