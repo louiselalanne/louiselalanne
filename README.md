@@ -7,5 +7,3 @@
 ● Birthday Resharch<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
 ● PHP Studies<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
 ● My Calculator<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"/>
-</br>
-☆*: .｡. o(≧▽≦)o .｡.:*☆
