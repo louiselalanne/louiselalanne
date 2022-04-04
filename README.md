@@ -8,4 +8,6 @@
 ● Birthday Resharch ------ <a href="https://github.com/louiselalanne/pesquisatemaaniversario"><img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"class="media-object  img-responsive img-thumbnail"></a></br>
 ● PHP Studies ------ <a href="https://github.com/louiselalanne/estudophp"><img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"class="media-object  img-responsive img-thumbnail"></a></br>
 ● My Calculator ------ <a href="https://github.com/louiselalanne/projeto01"><img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"class="media-object  img-responsive img-thumbnail"></a></br>
+</br>
+Feito com ❤️!
 </p>
