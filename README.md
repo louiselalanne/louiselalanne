@@ -12,5 +12,5 @@
 <a href="https://github.com/louiselalanne/projeto01">My Calculator</a> |
 </br>
 </br>
-Feito com ❤️!
+Made with ❤️.
 </p>
