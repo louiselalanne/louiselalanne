@@ -3,17 +3,13 @@
 <h2 align="center"> Projects </h2>
 </br><p align="center">
 <img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost"class="media-object  img-responsive img-thumbnail">
-<a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data 🧠</a>
-</br>
-<a href="https://github.com/louiselalanne/PacmanGame">Pacman Game 🎮</a> 
-</br>
-<a href="https://github.com/louiselalanne/criador-super-heroi">Super Hero Creator 🦸‍♀️</a>
-</br>
-<a href="https://github.com/louiselalanne/pesquisatemaaniversario">Birthday Resharch 🍰</a>
-</br>
-<a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a>
-</br>
-<a href="https://github.com/louiselalanne/projeto01">My Calculator</a> 
+  </br>
+<a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data 🧠</a> | 
+<a href="https://github.com/louiselalanne/PacmanGame">Pacman Game 🎮</a> | 
+<a href="https://github.com/louiselalanne/criador-super-heroi">Super Hero Creator 🦸‍♀️</a> | 
+<a href="https://github.com/louiselalanne/pesquisatemaaniversario">Birthday Resharch 🍰</a> |
+<a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
+<a href="https://github.com/louiselalanne/projeto01">My Calculator</a> |
 </br>
 </br>
 Feito com ❤️!
