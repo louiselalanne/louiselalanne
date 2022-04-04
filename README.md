@@ -11,6 +11,9 @@
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
 <a href="https://github.com/louiselalanne/projeto01">My Calculator</a> |
 </br>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
+ </p>
 </br>
 Made with ❤️.
 </p>
