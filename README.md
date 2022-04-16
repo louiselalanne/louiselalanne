@@ -8,7 +8,7 @@
 <a href="https://github.com/louiselalanne/criador-super-heroi">Super Hero Creator 🦸‍♀️</a> | 
 <a href="https://github.com/louiselalanne/pesquisatemaaniversario">Birthday Resharch 🍰</a> |
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
-<a href="https://github.com/louiselalanne/projeto01">My Calculator</a> |
+<a href="https://github.com/louiselalanne/vote2022">Chart Pie 🥧</a> |
 </br></br></p>
 <img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
 <p align="center">
