@@ -10,12 +10,11 @@
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
 <a href="https://github.com/louiselalanne/vote2022">Chart Pie 🥧</a> |
 <a href="https://github.com/louiselalanne/BarChart">Bar Chart 📊 </a> |
-  
 </br></br></p>
 <img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
 <p align="center">
 </br>
 </br>
 </br>
-Made with ❤️ by Louise Lalanne.
+Made with ❤️.
 </p>
