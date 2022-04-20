@@ -11,7 +11,8 @@
 <a href="https://github.com/louiselalanne/vote2022">Chart Pie 🥧</a> |
 <a href="https://github.com/louiselalanne/BarChart">Bar Chart 📊 </a> |
 <a href="https://github.com/louiselalanne/StrongPassword">Strong Password 🔐 </a> |  
-  </br></br></p>
+<a href="https://github.com/louiselalanne/UnlockFaceApp">Unlock Face App 🙂 </a> |   
+    </br></br></p>
 <img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
 <p align="center">
 </br>
