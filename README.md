@@ -14,6 +14,7 @@
 <a href="https://github.com/louiselalanne/UnlockFaceApp">Unlock Face App 🙂 </a> |   
 <a href="https://github.com/louiselalanne/CaptchApp">The Captch App 🤖</a> |
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
+<a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted 🔏</a> | 
 </br>
 </br>
 </p>
