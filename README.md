@@ -15,6 +15,7 @@
 <a href="https://github.com/louiselalanne/CaptchApp">The Captch App 🤖</a> |
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
 <a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted 🔏</a> | 
+<a href="https://github.com/louiselalanne/BricksBreaker">Bricks Breaker 🧱</a> | 
 </br>
 </br>
 </p>
