@@ -25,10 +25,9 @@
 </br>
 </br>
 <img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
-<p align="center">
-</br>
+<p align="justify">
 • Studies:
-<a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
+<a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> | <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> |
 </br>
 </br>
 Made with ❤️.
