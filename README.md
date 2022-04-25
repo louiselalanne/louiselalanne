@@ -20,7 +20,7 @@
 </br>
 </br>
 • Python Projects:</br>
-<a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |</br>
+<a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
 <a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted 🔏</a> |
 </br>
 </br>
