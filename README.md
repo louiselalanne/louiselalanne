@@ -39,3 +39,4 @@
 
 <p align="center"> Made with ❤️.</p>
 
+<script src="https://tryhackme.com/badge/1023391"></script>
