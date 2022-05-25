@@ -22,7 +22,7 @@
 <a href="https://github.com/louiselalanne/Paint"> Paint 🖌️</a> |
 <a href="https://github.com/louiselalanne/DrawingWithMinecraft">Drawing With Minecraft 🏗️ </a> |
 <a href="https://github.com/louiselalanne/Guess-The-Word"> Guess The Word ❓</a> |
-
+<a href="https://github.com/louiselalanne/Kwitter"> Kwitter 🐦</a> |
 
 • Python Projects:</br>
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
