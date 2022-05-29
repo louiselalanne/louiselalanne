@@ -27,7 +27,7 @@
 • Python Projects:</br>
 <a href="https://github.com/louiselalanne/Ascii_Name">Ascii Names</a> |
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
-<a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted with MD5 and SHA256 🔏</a> |
+<a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted 🔏</a> |
 <a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Encrypt Ascii Code</a> |
 
 </br>
