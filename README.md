@@ -30,6 +30,7 @@
 <a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Encrypt Ascii Code</a> |
 <a href="https://github.com/louiselalanne/Strong-Password">Strong Password 🔐 </a> | 
 <a href="https://github.com/louiselalanne/Pokeball">Pokeball 🔴 </a> | 
+<a href="https://github.com/louiselalanne/Dice">Dice Game 🎲 </a> | 
 
 </br>
 </br>
