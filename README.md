@@ -32,6 +32,8 @@
 <a href="https://github.com/louiselalanne/Pokeball">Pokeball 🔴 </a> | 
 <a href="https://github.com/louiselalanne/Dice">Dice Game 🎲 </a> | 
 <a href="https://github.com/louiselalanne/Text_Editor">Text Editor 🗒️ </a> |
+<a href="https://github.com/louiselalanne/Planet_Encyclopedia">Planet Encyclopedia 🌍 </a> |
+
 </br>
 </br>
 <img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
