@@ -2,8 +2,6 @@
 
 <h2 align="center">Bests Projects </h2>
 
-<img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=B57CFF&style=plastic&logo=ghost" class="media-object  img-responsive img-thumbnail">
-
 <p align="justify">
   
 • Javascript Projects: 
@@ -34,10 +32,6 @@
 <a href="https://github.com/louiselalanne/Text_Editor">Text Editor 🗒️ </a> |
 <a href="https://github.com/louiselalanne/Planet_Encyclopedia">Planet Encyclopedia 🌍 </a> |
 
-</br>
-</br>
-<img src="https://img.shields.io/static/v1?label=Status&message=In Progress&color=75BFF7&style=flat&logo=ghost"/>
-  
 • Studies:
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> | <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
 </br>
