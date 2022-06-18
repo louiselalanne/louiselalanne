@@ -31,6 +31,7 @@
 <a href="https://github.com/louiselalanne/Dice">Dice Game 🎲 </a> | 
 <a href="https://github.com/louiselalanne/Text_Editor">Text Editor 🗒️ </a> |
 <a href="https://github.com/louiselalanne/Planet_Encyclopedia">Planet Encyclopedia 🌍 </a> |
+<a href="https://github.com/louiselalanne/Drawing_with_Canvas">Drawing with Canvas 🖍️ </a> |
 
 • Studies:
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> | <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
