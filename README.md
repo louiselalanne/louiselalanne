@@ -4,7 +4,7 @@
 
 <p align="justify">
   
-• Javascript Projects: 
+<img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
 </br>
 <a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data 🧠</a> | 
 <a href="https://github.com/louiselalanne/PacmanGame">Pacman Game 🎮</a> | 
