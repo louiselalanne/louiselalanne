@@ -22,7 +22,8 @@
 <a href="https://github.com/louiselalanne/Guess-The-Word">Guess The Word ❓</a> |
 <a href="https://github.com/louiselalanne/Kwitter">Kwitter 🐦</a> |
 
-• Python Projects:</br>
+<img src="https://user-images.githubusercontent.com/100588945/175823818-59916986-3b33-45f5-84b7-a4f42fc326ac.gif" width="30"> **Python Projects:**
+</br>
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes ⚔️</a> |
 <a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted 🔏</a> |
 <a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Encrypt Ascii Code</a> |
@@ -34,6 +35,8 @@
 <a href="https://github.com/louiselalanne/Drawing_with_Canvas">Drawing with Canvas 🖍️ </a> |
 <a href="https://github.com/louiselalanne/What_Time_is_it">What time is it? 🕐</a> |
 <a href="https://github.com/louiselalanne/Junk_Food">Junk Food 🍔</a> |
+
+ <img src="https://user-images.githubusercontent.com/100588945/175824020-7768c9b0-dcbd-4bf6-bc27-4d410ff72600.gif" width="30"> **Hacking Projects:**
 
 • Studies:
 <a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> | <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
