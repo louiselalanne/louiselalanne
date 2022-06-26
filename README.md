@@ -37,9 +37,9 @@
 <a href="https://github.com/louiselalanne/Junk_Food">Junk Food 🍔</a> |
 
  <img src="https://user-images.githubusercontent.com/100588945/175824020-7768c9b0-dcbd-4bf6-bc27-4d410ff72600.gif" width="30"> **Hacking Projects:**
-
-• Studies:
-<a href="https://github.com/louiselalanne/estudophp">PHP Studies 🐘</a> | <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
+<br>
+<a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
+<a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
 </br>
 </br>
 
