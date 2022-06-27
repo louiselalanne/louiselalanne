@@ -41,7 +41,7 @@
 <br>
 <a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
 <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies 🗣️</a> |
-<a href="https://github.com/louiselalanne/Port_Scan">Port Scan 🚪</a> |
+<a href="https://github.com/louiselalanne/Port_Scan">Port Scan in Bash 🚪</a> |
 </br>
 </br>
 
