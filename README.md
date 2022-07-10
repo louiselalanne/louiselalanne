@@ -16,7 +16,7 @@
 <a href="https://github.com/louiselalanne/UnlockFaceApp">Unlock Face App </a>| 
 <a href="https://github.com/louiselalanne/CaptchApp">The Captch App </a>| 
 <a href="https://github.com/louiselalanne/BricksBreaker">Bricks Breaker </a>| 
-<a href="https://github.com/louiselalanne/estruturadedados">Estrutura de dados</a>| 
+<a href="https://github.com/louiselalanne/estruturadedados">Estrutura de dados</a> | 
 <a href="https://github.com/louiselalanne/Paint">Paint </a>| 
 <a href="https://github.com/louiselalanne/DrawingWithMinecraft">Drawing With Minecraft </a>| 
 <a href="https://github.com/louiselalanne/Guess-The-Word">Guess The Word </a>| 
