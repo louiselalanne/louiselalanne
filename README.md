@@ -21,6 +21,7 @@
 <a href="https://github.com/louiselalanne/DrawingWithMinecraft">Drawing With Minecraft 🏗️ </a> |
 <a href="https://github.com/louiselalanne/Guess-The-Word">Guess The Word ❓</a> |
 <a href="https://github.com/louiselalanne/Kwitter">Kwitter 🐦</a> |
+<a href="https://github.com/louiselalanne/Dino_Chrome">Dinossaur Chrome 🦕</a> |
 
 <img src="https://user-images.githubusercontent.com/100588945/175823818-59916986-3b33-45f5-84b7-a4f42fc326ac.gif" width="30"> **Python Projects:**
 </br>
