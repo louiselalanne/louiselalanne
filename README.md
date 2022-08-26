@@ -6,19 +6,18 @@
   
 <img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
 </br>
-<a href="https://github.com/louiselalanne/Pirate-Invasion">Pirate Invasion </a>|
 <a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data </a>| 
 <a href="https://github.com/louiselalanne/PacmanGame">Pacman Game </a>| 
 <a href="https://github.com/louiselalanne/criador-super-heroi">Super Hero Creator </a>| 
 <a href="https://github.com/louiselalanne/StrongPassword">Strong Password </a>| 
 <a href="https://github.com/louiselalanne/BricksBreaker">Bricks Breaker </a>| 
-<a href="https://github.com/louiselalanne/estruturadedados">Estrutura de dados</a> | 
 <a href="https://github.com/louiselalanne/Paint">Paint </a>| 
 <a href="https://github.com/louiselalanne/DrawingWithMinecraft">Drawing With Minecraft </a>| 
 <a href="https://github.com/louiselalanne/Guess-The-Word">Guess The Word </a>| 
 <a href="https://github.com/louiselalanne/Kwitter">Kwitter </a>| 
 <a href="https://github.com/louiselalanne/Dino_Chrome">Chrome's Dinossaur </a>| 
 <a href="https://github.com/louiselalanne/Running-Ghost">Running ghost </a>|
+<a href="https://github.com/louiselalanne/Pirate-Invasion">Pirate Invasion </a>|
 
 <img src="https://user-images.githubusercontent.com/100588945/175823818-59916986-3b33-45f5-84b7-a4f42fc326ac.gif" width="30"> **Python Projects:**
 </br>
