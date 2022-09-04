@@ -41,6 +41,7 @@
 <a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies</a> |
 <a href="https://github.com/louiselalanne/port_scan_py">Port Scan using Socket</a> |
 <a href="https://github.com/louiselalanne/ReadPE">Read PE </a>|
+<a href="https://github.com/louiselalanne/Zip-Brute"> Zip Brute </a>|
 </br>
 </br>
 
