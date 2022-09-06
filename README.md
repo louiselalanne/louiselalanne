@@ -44,7 +44,7 @@
 <a href="https://github.com/louiselalanne/Zip-Brute"> Zip Brute </a>|
 <a href="https://github.com/louiselalanne/Phishing"> Phishing </a>|
 <a href="https://github.com/louiselalanne/Keylogger"> Key Logger </a>|
-<a href="https://github.com/louiselalanne/Desofuscando-strings-com-python2"> Sample Study</a>|
+<a href="https://github.com/louiselalanne/Desofuscando-strings-com-python2"> Case Study </a>|
 </br>
 </br>
 
