@@ -50,6 +50,4 @@
 </br>
 
 </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ise.pentester.png" alt="TryHackMe">
-<br>
 <p align="center"> Made with ❤️.</p>
