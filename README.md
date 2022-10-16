@@ -27,6 +27,7 @@
 <a href="https://github.com/louiselalanne/RAM_consumption"> RAM Consuption </a>|
 <a href="https://github.com/louiselalanne/Chatroom"> Chatroom </a>|
 <a href="https://github.com/louiselalanne/DetectionAndTracking"> Detection and Tracking </a>|
+<a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
 
  <img src="https://user-images.githubusercontent.com/100588945/175824020-7768c9b0-dcbd-4bf6-bc27-4d410ff72600.gif" width="30"> **Cyber Security Projects:**
 <br>
@@ -35,7 +36,6 @@
 <a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Encrypt Ascii Code</a> |
 <a href="https://github.com/louiselalanne/Strong-Password">Strong Password</a> | 
 <a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
-<a href="https://github.com/louiselalanne/BurpSuitStudies">BurpSuit Studies</a> |
 <a href="https://github.com/louiselalanne/port_scan_py">Port Scan using Socket</a> |
 <a href="https://github.com/louiselalanne/ReadPE">Read PE </a>|
 <a href="https://github.com/louiselalanne/Zip-Brute"> Zip Brute </a>|
@@ -45,7 +45,7 @@
 <a href="https://github.com/louiselalanne/Kurikaesu-Worm"> Kurikaesu Worm </a>|
 <a href="https://github.com/louiselalanne/CreateExecutables"> Creating Executables </a>|
 <a href="https://github.com/louiselalanne/gerenciador-de-eventos-do-sistema-de-arquivos"> File System Event Manager </a>|
-<a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
+
 </br>
 </br>
 <p align="center"> Made with ❤️.</p>
