@@ -1,6 +1,6 @@
 ![Louise lalanne](https://user-images.githubusercontent.com/100588945/188337499-0777aaf4-2d3a-4c7c-a234-34c933b2421a.gif)
 
-<p align="justify"><img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
+<img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
 </br>
 <a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data </a>| 
 <a href="https://github.com/louiselalanne/PacmanGame">Pacman Game </a>| 
@@ -48,5 +48,4 @@
 <a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
 </br>
 </br>
-</p>
 <p align="center"> Made with ❤️.</p>
