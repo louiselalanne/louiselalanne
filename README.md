@@ -33,7 +33,7 @@
 <br>
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes</a> |
 <a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted</a> |
-<a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Encrypt Ascii Code</a> |
+<a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Ascii Translator</a> |
 <a href="https://github.com/louiselalanne/Strong-Password">Strong Password</a> | 
 <a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
 <a href="https://github.com/louiselalanne/port_scan_py">Port Scan using Socket</a> |
