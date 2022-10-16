@@ -1,7 +1,5 @@
 ![Louise lalanne](https://user-images.githubusercontent.com/100588945/188337499-0777aaf4-2d3a-4c7c-a234-34c933b2421a.gif)
 
-<h2 align="center">Best Projects </h2>
-
 <p align="justify">
   
 <img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
