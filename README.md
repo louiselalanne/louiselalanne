@@ -1,6 +1,6 @@
 ![Louise lalanne](https://user-images.githubusercontent.com/100588945/188337499-0777aaf4-2d3a-4c7c-a234-34c933b2421a.gif)
 
-<h2 align="center">Bests Projects </h2>
+<h2 align="center">Best Projects </h2>
 
 <p align="justify">
   
