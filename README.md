@@ -28,6 +28,7 @@
 <a href="https://github.com/louiselalanne/Chatroom"> Chatroom </a>|
 <a href="https://github.com/louiselalanne/DetectionAndTracking"> Detection and Tracking </a>|
 <a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
+<a href="https://github.com/louiselalanne/automatepython"> Automate Everything With Python </a>|
 
  <img src="https://user-images.githubusercontent.com/100588945/175824020-7768c9b0-dcbd-4bf6-bc27-4d410ff72600.gif" width="30"> **Cyber Security Projects:**
 <br>
