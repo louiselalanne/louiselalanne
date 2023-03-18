@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/100588945/226133936-465a44a6-2ca0-418f-bd4b-ee8e32244bf9.gif)
+![banner](https://user-images.githubusercontent.com/100588945/226134149-cb2bbf6d-4f56-4630-bcf7-83a0651275c7.gif)
 
 <img src="https://user-images.githubusercontent.com/100588945/226130122-af97f657-9264-4978-9129-2fe9521bafa9.png" width="30"> **Write Ups and Hack Stuffs:**
 <a href="https://louiselalanne.github.io/">My Blog</a>
