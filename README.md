@@ -1,7 +1,7 @@
 ![Louise lalanne](https://user-images.githubusercontent.com/100588945/188337499-0777aaf4-2d3a-4c7c-a234-34c933b2421a.gif)
 
-<img src="https://user-images.githubusercontent.com/100588945/226129886-db6549e6-4b66-4595-b133-6a489f318691.gif" width="60"> **Write Ups and Stuffs: **
-<a href="https://louiselalanne.github.io/">My Blog</a>
+<img src="https://user-images.githubusercontent.com/100588945/226129886-db6549e6-4b66-4595-b133-6a489f318691.gif" width="60">
+<a href="https://louiselalanne.github.io/">Write Ups and Hack Stuffs</a>
 
 <img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
 </br>
