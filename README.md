@@ -1,9 +1,9 @@
 ![banner](https://user-images.githubusercontent.com/100588945/226134149-cb2bbf6d-4f56-4630-bcf7-83a0651275c7.gif)
 
-<img src="https://user-images.githubusercontent.com/100588945/226130122-af97f657-9264-4978-9129-2fe9521bafa9.png" width="30"> **Write Ups and Hack Stuffs:**
+**Write Ups and Hack Stuffs:**
 <a href="https://louiselalanne.github.io/">My Blog</a>
 
-<img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
+**Javascript Projects:**
 </br>
 <a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data </a>| 
 <a href="https://github.com/louiselalanne/PacmanGame">Pacman Game </a>| 
@@ -18,7 +18,7 @@
 <a href="https://github.com/louiselalanne/Running-Ghost">Running ghost </a>|
 <a href="https://github.com/louiselalanne/Pirate-Invasion">Pirate Invasion </a>|
 
-<img src="https://user-images.githubusercontent.com/100588945/175823818-59916986-3b33-45f5-84b7-a4f42fc326ac.gif" width="30"> **Python Projects:**
+**Python Projects:**
 </br>
 <a href="https://github.com/louiselalanne/Pokeball">Pokeball</a> | 
 <a href="https://github.com/louiselalanne/Dice">Dice Game</a> | 
@@ -33,7 +33,7 @@
 <a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
 <a href="https://github.com/louiselalanne/automatepython"> Automate Everything With Python </a>|
 
- <img src="https://user-images.githubusercontent.com/100588945/175824020-7768c9b0-dcbd-4bf6-bc27-4d410ff72600.gif" width="30"> **Cyber Security Projects:**
+**Cyber Security Projects:**
 <br>
 <a href="https://github.com/louiselalanne/HashCodes">Hash Codes</a> |
 <a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted</a> |
