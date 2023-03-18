@@ -1,6 +1,6 @@
 ![Louise lalanne](https://user-images.githubusercontent.com/100588945/188337499-0777aaf4-2d3a-4c7c-a234-34c933b2421a.gif)
 
-<img src="https://user-images.githubusercontent.com/100588945/226130122-af97f657-9264-4978-9129-2fe9521bafa9.png" width="60"> **Write Ups and Hack Stuffs:**
+<img src="https://user-images.githubusercontent.com/100588945/226130122-af97f657-9264-4978-9129-2fe9521bafa9.png" width="30"> **Write Ups and Hack Stuffs:**
 <a href="https://louiselalanne.github.io/">My Blog</a>
 
 <img src="https://user-images.githubusercontent.com/100588945/175823612-37165bc0-ed64-465a-a4ca-292bf443fa19.gif" width="30"> **Javascript Projects:**
