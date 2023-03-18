@@ -49,7 +49,3 @@
 <a href="https://github.com/louiselalanne/Kurikaesu-Worm"> Kurikaesu Worm </a>|
 <a href="https://github.com/louiselalanne/CreateExecutables"> Creating Executables </a>|
 <a href="https://github.com/louiselalanne/gerenciador-de-eventos-do-sistema-de-arquivos"> File System Event Manager </a>|
-
-</br>
-</br>
-<p align="center"> Made with ❤️.</p>
