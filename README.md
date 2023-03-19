@@ -3,6 +3,23 @@
 **Write Ups and Hack Stuffs:**
 <a href="https://louiselalanne.github.io/">My Blog</a>
 
+**Cyber Security Projects:**
+<br>
+<a href="https://github.com/louiselalanne/HashCodes">Hash Codes</a> |
+<a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted</a> |
+<a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Ascii Translator</a> |
+<a href="https://github.com/louiselalanne/Strong-Password">Strong Password</a> | 
+<a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
+<a href="https://github.com/louiselalanne/port_scan_py">Port Scan using Socket</a> |
+<a href="https://github.com/louiselalanne/ReadPE">Read PE </a>|
+<a href="https://github.com/louiselalanne/Zip-Brute"> Zip Brute </a>|
+<a href="https://github.com/louiselalanne/Phishing"> Phishing </a>|
+<a href="https://github.com/louiselalanne/Keylogger"> Key Logger </a>|
+<a href="https://github.com/louiselalanne/Desofuscando-strings-com-python2"> Case Study </a>|
+<a href="https://github.com/louiselalanne/Kurikaesu-Worm"> Kurikaesu Worm </a>|
+<a href="https://github.com/louiselalanne/CreateExecutables"> Creating Executables </a>|
+<a href="https://github.com/louiselalanne/gerenciador-de-eventos-do-sistema-de-arquivos"> File System Event Manager </a>|
+
 **Javascript Projects:**
 </br>
 <a href="https://github.com/louiselalanne/JavascriptQuiz">Javascript Quiz + Data </a>| 
@@ -32,20 +49,3 @@
 <a href="https://github.com/louiselalanne/DetectionAndTracking"> Detection and Tracking </a>|
 <a href="https://github.com/louiselalanne/BodyDetect"> BodyDetect </a>|
 <a href="https://github.com/louiselalanne/automatepython"> Automate Everything With Python </a>|
-
-**Cyber Security Projects:**
-<br>
-<a href="https://github.com/louiselalanne/HashCodes">Hash Codes</a> |
-<a href="https://github.com/louiselalanne/MessagesEncrypted">Messages Encrypted</a> |
-<a href="https://github.com/louiselalanne/Encrypt_Ascii_Code">Ascii Translator</a> |
-<a href="https://github.com/louiselalanne/Strong-Password">Strong Password</a> | 
-<a href="https://github.com/louiselalanne/Parse_HTML">Parse HTML</a> | 
-<a href="https://github.com/louiselalanne/port_scan_py">Port Scan using Socket</a> |
-<a href="https://github.com/louiselalanne/ReadPE">Read PE </a>|
-<a href="https://github.com/louiselalanne/Zip-Brute"> Zip Brute </a>|
-<a href="https://github.com/louiselalanne/Phishing"> Phishing </a>|
-<a href="https://github.com/louiselalanne/Keylogger"> Key Logger </a>|
-<a href="https://github.com/louiselalanne/Desofuscando-strings-com-python2"> Case Study </a>|
-<a href="https://github.com/louiselalanne/Kurikaesu-Worm"> Kurikaesu Worm </a>|
-<a href="https://github.com/louiselalanne/CreateExecutables"> Creating Executables </a>|
-<a href="https://github.com/louiselalanne/gerenciador-de-eventos-do-sistema-de-arquivos"> File System Event Manager </a>|
