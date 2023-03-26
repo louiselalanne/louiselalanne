@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/100588945/226134149-cb2bbf6d-4f56-4630-bcf7-83a0651275c7.gif)
 
 **Write Ups and Hack Stuffs:**
-<a href="https://louiselalanne.github.io/">My Blog</a>
+[![My blog](https://img.shields.io/badge/MyBlog-blueviolet.svg?style=for-the-badge&logo=MyBlog&logoColor=white)](https://louiselalanne.github.io/)
 
 **Cyber Security Projects:**
 <br>
