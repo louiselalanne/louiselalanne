@@ -5,6 +5,7 @@
 <br>
 <a href="https://github.com/louiselalanne/CVE-2023-49313">CVE-2023-49313</a> |
 <a href="https://github.com/louiselalanne/CVE-2023-49314">CVE-2023-49314</a> |
+<a href="https://github.com/louiselalanne/CVE-2024-23745">CVE-2024-23745</a>
 
 **Cyber Security Projects:**
 <br>
